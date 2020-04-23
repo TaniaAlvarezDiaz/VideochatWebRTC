@@ -21,12 +21,12 @@ Para ejecutar el proyecto seguir los siguientes pasos:
    * Abrir el fichero "index.html" en el navegador Chrome.
       * Abrir tantas pestañas como clientes se deseen.
    * **Nota**: puede ser que el navegador Chrome bloquee alguna característica de Javascript que sea necesaria para la correcta ejecución si se abre el archivo "index.html" desde una ruta local, por tanto, es recomendable desplegar el cliente desde un servidor.
-   Si no se posee de uno, se aconseja utilizar [Xampp](https://www.apachefriends.org/es/index.html) (continuar viendo paso 5).
+   Si no se posee de uno, se aconseja utilizar [XAMPP](https://www.apachefriends.org/es/index.html) (continuar viendo paso 5).
    
-5. Si se utiliza Xampp para desplegar el cliente, tras instalarlo se debe:
+5. Si se utiliza XAMPP para desplegar el cliente, tras instalarlo se debe:
    * Introducir el cliente (carpeta **VideochatWebRTCCliente**) en la carpeta "htdocs".
       * Se suele encontrar en la ruta "C:\xampp\htdocs". 
-   * Desde el panel de Xampp, iniciar el servicio de Apache pulsando "Run".
+   * Desde el panel de XAMPP, iniciar el servicio de Apache pulsando "Run".
       * Habitualmente este servicio se inicia en el puerto 80.
    * Abrir el navegador Chrome y ejecutar **localhost/VideochatWebRTCCliente**.
       * Si el puerto no es el 80, se ejecutaría **localhost:PUERTO/VideochatWebRTCCliente**, donde PUERTO es el número del puerto.
