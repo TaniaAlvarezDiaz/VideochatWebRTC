@@ -1,5 +1,5 @@
 # VideochatWebRTC
-Aplicación de videochat que permite a los usuarios comunicarse entre sí mediante el intercambio de vídeo y mensajes de chat. Esta aplicación tiene:
+Aplicación de videochat utilizando [WebRTC](https://webrtc.org/). Esta aplicación tiene:
  - [Servidor](https://github.com/TaniaAlvarezDiaz/VideochatWebRTCServidor): se encarga de gestionar las conexiones de los usuarios.
  - [Cliente](https://github.com/TaniaAlvarezDiaz/VideochatWebRTCCliente): permite a los usuarios conectarse al servidor y realizar el intercambio de video y mensajes de chat con el resto de usuarios conectados al servidor (usando el nombre de dicho usuario).
  
