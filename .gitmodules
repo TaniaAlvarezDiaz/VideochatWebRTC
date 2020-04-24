@@ -1,0 +1,9 @@
+[submodule "VideochatWebRTCCliente"]
+	path = VideochatWebRTCCliente
+	url = https://github.com/TaniaAlvarezDiaz/VideochatWebRTCCliente
+[submodule "VideochatWebRTCServidor"]
+	path = VideochatWebRTCServidor
+	url = https://github.com/TaniaAlvarezDiaz/VideochatWebRTCServidor
+[submodule "SlidesVideochatWebRTC"]
+	path = SlidesVideochatWebRTC
+	url = https://github.com/TaniaAlvarezDiaz/SlidesVideochatWebRTC
